@@ -11,5 +11,5 @@
     - your first line in this file should be "public class Circle"
     - this Circle class should have two separate constructors (one that takes in radius, one that takes in both radius and color)
     - use @Override and toString to override the default string representation of this class
-    - refer to course notes for examples (e.g. https://axiom.utm.utoronto.ca/~207/20f/slides/3/intro-classes.html#/2/1)
+    - refer to course notes for examples (e.g. https://axiom.utm.utoronto.ca/~207/21s/slides/3/intro-classes.html#/2/1)
 */
