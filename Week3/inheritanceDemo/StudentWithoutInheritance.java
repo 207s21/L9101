@@ -1,5 +1,3 @@
-package inheritanceDemo;
-
 /**
  * Without using inheritance, the implementation of this student
  * class duplicates part of the implementation of the Person class. 

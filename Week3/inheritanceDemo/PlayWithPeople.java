@@ -1,5 +1,3 @@
-package inheritanceDemo;
-
 public class PlayWithPeople {
 	
 	public static void main(String args[]) {

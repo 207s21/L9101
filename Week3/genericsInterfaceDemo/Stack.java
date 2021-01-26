@@ -1,4 +1,3 @@
-package genericsInterfaceDemo;
 /*
  * This is an example of an interface: a structure that defines a set of method
  * signatures which a class must implement. If a class implements the interface,

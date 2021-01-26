@@ -1,5 +1,3 @@
-package genericsInterfaceDemo;
-
 /**
  * An implementation of the Stack data structure based on SimpleLinkedList.
  */

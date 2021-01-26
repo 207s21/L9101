@@ -1,5 +1,3 @@
-package abstractClassDemo;
-
 public class Rectangle extends Shape {
 	
 	private int width;

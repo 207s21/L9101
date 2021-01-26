@@ -1,5 +1,3 @@
-package abstractClassDemo;
-
 /**
  * Since this class is not abstract, we must implement ALL the
  * abstract methods in the Shape class, as well as override some 

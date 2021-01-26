@@ -1,5 +1,3 @@
-package abstractClassDemo;
-
 /** 
  * Abstract class for Shape objects.
  */

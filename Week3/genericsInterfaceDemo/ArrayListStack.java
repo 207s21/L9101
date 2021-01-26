@@ -1,5 +1,3 @@
-package genericsInterfaceDemo;
-
 import java.util.ArrayList;
 
 /**
