@@ -1,3 +1,5 @@
+import Vector, Enumeration
+
 class Customer {
 public String _name;
 public Vector _rentals = new Vector();
