@@ -1,5 +1,3 @@
-package mvcdemo;
-
 // EXERCISE 2
 // Complete the TODOs below and try running this code to see this simple MVC implementation in action
 // Discuss in a group how this code works -- which classes are interacting with which, and how the final output is produced

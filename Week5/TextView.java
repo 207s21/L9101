@@ -1,5 +1,3 @@
-package mvcdemo;
-
 import java.util.*;
 
 /**

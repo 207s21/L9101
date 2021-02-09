@@ -1,5 +1,3 @@
-package mvcdemo;
-
 // EXERCISE 1:
 // Modify the class below to act as an Observable (import and extend the appropriate class)
 // Balloon should notify its observers anytime it is inflated or popped
