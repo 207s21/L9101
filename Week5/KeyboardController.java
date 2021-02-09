@@ -20,7 +20,7 @@ public class KeyboardController {
 		// Now we control the model
 		// TODO: - Continually prompt for the user to type in the desired balloon
 		// - then ask how much to inflate, and inflate the desired balloon
-		// - if the user chooses balloon #1, exit the program
+		// - if the user chooses balloon # -1, exit the program
 		
 	}
 }
