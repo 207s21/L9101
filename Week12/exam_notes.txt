@@ -1,0 +1,50 @@
+---------------------------------------------------
+CSC207 Lecture 12
+---------------------------------------------------
+
+Final Exam Logistics
+
+You can see our exam date+time here: https://student.utm.utoronto.ca/examschedule/finalexams.php
+
+- The exam will be written as a timed quiz on Quercus
+- More information about exam structure will be posted on Piazza by the end of this week
+
+- Students are expected to write their final exams at the times they are posted.
+- If you have issues with their exam time, please use this form:
+https://student.utm.utoronto.ca/examconflict/index.php
+(they have a new Time Zone Conflict category)
+
+---------------------------------------------------
+
+Final Exam Review Tips
+
+What to study?
+
+All the things you practiced in this course, i.e., assignments, lectures.
+􏰀- Java classes/objects, inheritance, interfaces
+􏰀- GIT basics, using branches (checkout, merging, etc.) (know the command line git commands)
+􏰀- Code Refactoring, Inspection, Code Smells
+􏰀- MVC, Design Patterns (singleton, observer, iterator, composite, command, strategy, factory, builder)
+􏰀- Scrum
+􏰀- File Parsing (using FSM), Regular Expressions
+􏰀- Floating Point (IEEE-754 Representations)
+􏰀- Everything else
+
+
+Other things:
+- Past exams: can be found in the Old Exam Repository at UofT library
+	- Practice by simulating the exam environment (pen and paper, time yourself, no aid)
+- Everything else
+
+---------------------------------------------------
+Exam Office Hours:
+
+karan - april 12, 2-4pm
+michael - april 13, 12:30-1:30
+sadia - april 14, 1:30-2:30
+kim - april 14, 5-7pm
+ziyyad - april 15, 5-6pm
+
+USE THE OFFICE HOURS!!!
+---------------------------------------------------
+
